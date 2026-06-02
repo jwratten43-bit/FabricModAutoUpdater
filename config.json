@@ -1,0 +1,34 @@
+{
+  "minecraft_version": "26.1.2",
+  "minecraft_dir": "C:/Users/Wratten/AppData/Roaming/.minecraft",
+  "modrinth_project_slugs": [
+    "cloth-config",
+    "fabric-api",
+    "freecam",
+    "kirin",
+    "lambdynamiclights",
+    "modmenu",
+    "presence-footsteps",
+    "reeses-sodium-options",
+    "shulkerboxtooltip",
+    "sodium",
+    "visuality",
+    "iris"
+  ],
+  "shader_packs": [
+    "bliss-shader",
+    "complementary-unbound",
+    "solas-shader"
+  ],
+  "resource_packs": [
+    "fresh-animations",
+    "better-leaves",
+    "dramatic-skys",
+    "faithful-64x"
+  ],
+  "selected_shader_packs": [],
+  "selected_resource_packs": [
+    "faithful-64x"
+  ],
+  "mods_dir": "C:\\Users\\Wratten\\AppData\\Roaming\\.minecraft\\mods"
+}

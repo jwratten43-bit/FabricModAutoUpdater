@@ -1,0 +1,25 @@
+{
+  "minecraft_version": "1.20.4",
+  "minecraft_dir": "C:/Users/YourName/AppData/Roaming/.minecraft",
+  "modrinth_project_slugs": [
+    "lithium",
+    "phosphor",
+    "sodium"
+  ],
+  "shader_packs": [
+    "bsl",
+    "sildurs",
+    "continuum"
+  ],
+  "resource_packs": [
+    "faithful",
+    "vanilla_plus",
+    "pixelex"
+  ],
+  "selected_shader_packs": [
+    "bsl"
+  ],
+  "selected_resource_packs": [
+    "faithful"
+  ]
+}
