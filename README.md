@@ -39,7 +39,7 @@ Example final config:
 ```json
 {
   "minecraft_version": "26.1.2",
-  "minecraft_dir": "C:/Users/Wratten/AppData/Roaming/.minecraft",
+  "minecraft_dir": "C:/Users/YourName/AppData/Roaming/.minecraft",
   "modrinth_project_slugs": [
     "cloth-config",
     "fabric-api",
